@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PiG.iml" filepath="$PROJECT_DIR$/.idea/PiG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Random math quiz/.idea/Random math quiz.iml" filepath="$PROJECT_DIR$/../Random math quiz/.idea/Random math quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../slots/pythonProject2/.idea/pythonProject2.iml" filepath="$PROJECT_DIR$/../slots/pythonProject2/.idea/pythonProject2.iml" />
+    </modules>
+  </component>
+</project>
